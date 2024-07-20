@@ -1,0 +1,6 @@
+//AUTHOR : SYED ANAS
+//DATE :14/3/2024
+//DESCRIPTION : THIS IS MY FAV NUM WHIHC I STIRED INN FAV NUM VARIABLE 
+
+var favNum : number = 3
+console.log(`MY FAV NUMBER IS ${favNum}`)
